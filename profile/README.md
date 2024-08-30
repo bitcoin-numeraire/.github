@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://numeraire.fra1.cdn.digitaloceanspaces.com/development/LOGO_FULL_PNG_color_dark_9d58514132.png" height="200"/>
+  <img src="https://numeraire.fra1.cdn.digitaloceanspaces.com/development/LOGO_FULL_PNG_color_dark_40ed6f942b.png" height="200"/>
   <h1>Technologies</h1>
   <h3>A Swiss Bitcoin development company</h3>
 </div>
