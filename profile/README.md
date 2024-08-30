@@ -23,6 +23,8 @@ We welcome contributions on all of our repositories. From the [docs](https://git
 
 ### Useful links
 
+- [User Dashboard](https://app.numeraire.tech)
+
 - [Documentation](https://docs.numeraire.tech)
 
 - [Nostr](https://nostr.com/npub1m8pwckdf3n5lyd2m463ad3u4kk98qmwfs9s7hrmj6knd07frenlsfr0uje)
