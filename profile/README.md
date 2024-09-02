@@ -11,8 +11,6 @@
 - Check out our **[Documentation](https://docs.numeraire.tech)**
 - Check out our main product, **[Numeraire SwissKnife](https://github.com/bitcoin-numeraire/swissknife)** - a Bitcoin and Lightning wallet built in Rust
 
-Join us on this exciting Bitcoin adoption & innovation journey! 🚀🌌
-
 ### Need help?
 
 For any other question, feel free to [contact us](https://numeraire.tech/contact)
