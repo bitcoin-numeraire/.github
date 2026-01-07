@@ -6,7 +6,7 @@
 
 #### ​We believe that Bitcoin possesses all the properties to become the [numeraire](https://en.wikipedia.org/wiki/Num%C3%A9raire), benefiting billions of people around the world. Our goal is to help shape this future — Company name and vision are thus merged as one.
 
-**Numeraire Technologies** is focused on increasing Bitcoin adoption. To do so, we develop products and services on different Bitcoin related technologies (Mining, Lightning, Nostr and RGB smart contracts).
+**Numeraire Technologies** is focused on increasing Bitcoin adoption. To do so, we develop products and services on different Bitcoin related technologies (Mining, Lightning, Nostr and Bitcoin smart contracts).
 
 - Check out our **[Documentation](https://docs.numeraire.tech)**
 - Check out our main product, **[Numeraire SwissKnife](https://github.com/bitcoin-numeraire/swissknife)** - a Bitcoin and Lightning wallet built in Rust
