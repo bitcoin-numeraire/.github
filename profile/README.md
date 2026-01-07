@@ -35,4 +35,6 @@ We welcome contributions on all of our repositories. From the [docs](https://git
 
 - [REST API Reference](https://api.numeraire.tech/docs)
 
-- [Lightning Node](https://amboss.space/node/02fc22cb2dd9c71b39ad246ae206259376e0127cce2192d4061abd0172b53f391b)
+- [Lightning Node Atlas](https://amboss.space/node/03dd3681a6d0f71cf51149b9933757cf9523e762f4dc24954cb293ee4ea0c671e9)
+
+- [Lightning Node SwissKnife](https://amboss.space/node/02fc22cb2dd9c71b39ad246ae206259376e0127cce2192d4061abd0172b53f391b)
